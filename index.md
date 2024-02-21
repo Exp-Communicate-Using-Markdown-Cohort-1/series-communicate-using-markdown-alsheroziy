@@ -8,3 +8,10 @@
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+
+
+### program language
+- [ ] java
+- [ ] python
+- [ ] c++
+- [ ] javascript
